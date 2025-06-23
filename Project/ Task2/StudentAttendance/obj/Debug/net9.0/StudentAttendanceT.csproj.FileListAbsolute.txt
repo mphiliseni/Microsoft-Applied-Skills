@@ -1,0 +1,15 @@
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.AssemblyInfoInputs.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.AssemblyInfo.cs
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.csproj.CoreCompileInputs.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.sourcelink.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/bin/Debug/net9.0/StudentAttendanceT
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/bin/Debug/net9.0/StudentAttendanceT.deps.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/bin/Debug/net9.0/StudentAttendanceT.runtimeconfig.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/bin/Debug/net9.0/StudentAttendanceT.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/bin/Debug/net9.0/StudentAttendanceT.pdb
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/refint/StudentAttendanceT.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.pdb
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/StudentAttendanceT.genruntimeconfig.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task2/StudentAttendance/obj/Debug/net9.0/ref/StudentAttendanceT.dll
