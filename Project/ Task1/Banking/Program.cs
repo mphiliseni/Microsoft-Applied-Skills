@@ -10,7 +10,7 @@ namespace Banking
             //TODO Task 1.2
             BankAccount account = new BankAccount
             {
-                AccountNumber = "123456789",
+                AccountNumber = "123-456",
                 Balance = 1000.23m
             };
             Console.WriteLine($"Account Number: {account.AccountNumber} Balance: {account.Balance:C}");
