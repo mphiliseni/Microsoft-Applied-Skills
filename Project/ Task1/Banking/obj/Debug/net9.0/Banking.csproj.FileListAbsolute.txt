@@ -1,0 +1,15 @@
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/bin/Debug/net9.0/Banking
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/bin/Debug/net9.0/Banking.deps.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/bin/Debug/net9.0/Banking.runtimeconfig.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/bin/Debug/net9.0/Banking.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/bin/Debug/net9.0/Banking.pdb
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.AssemblyInfoInputs.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.AssemblyInfo.cs
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.csproj.CoreCompileInputs.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.sourcelink.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/refint/Banking.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.pdb
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/Banking.genruntimeconfig.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/ Task1/Banking/obj/Debug/net9.0/ref/Banking.dll
