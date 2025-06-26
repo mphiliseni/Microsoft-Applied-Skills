@@ -1,0 +1,15 @@
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfoInputs.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfo.cs
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.sourcelink.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/bin/Debug/net9.0/Calculator
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/bin/Debug/net9.0/Calculator.deps.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/bin/Debug/net9.0/Calculator.runtimeconfig.json
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/bin/Debug/net9.0/Calculator.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/bin/Debug/net9.0/Calculator.pdb
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.pdb
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
+/Users/mphilisenimhlongo/Projects/Microsoft-Applied-Skills/Project/Task3/Calculator/obj/Debug/net9.0/ref/Calculator.dll
