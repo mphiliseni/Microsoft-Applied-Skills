@@ -5,29 +5,29 @@ namespace StudentAttendance
     public class Student
     {
         // TODO Task 2.1: Make FirstName, MiddleName, and LastName modifiable only inside this class
-        public string FirstName { get; private set; }
+        public string firstname { get; private set; }
 
         // TODO Task 2.2: Allow MiddleName to be null
-        public string? MiddleName { get; private set; }
+        public string middlename { get; private set; } = string.Empty;
         // End of TODO Task 2.2
 
-        public string LastName { get; private set; }
+        public string lastname { get; private set; }
         // End of TODO Task 2.1
 
         // Full constructor
-        public Student(string firstName, string middleName, string lastName)
+        public Student(string first, string middle, string last)
         {
-            FirstName = firstName;
-            MiddleName = middleName;
-            LastName = lastName;
+            firstname = first;
+            middlename = middle;
+            lastname = last;
         }
 
         // TODO Task 2.3: Add constructor with only FirstName and LastName
-        public Student(string firstName, string lastName)
+        public Student(string first, string last)
         {
-            FirstName = firstName;
-            LastName = lastName;
-            MiddleName = null;
+            firstname = first;
+            lastname = last;
+            middlename = null;
         }
         // End of TODO Task 2.3
     }

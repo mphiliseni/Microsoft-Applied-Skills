@@ -8,7 +8,7 @@ namespace Banking
         public static void Main(string[] args)
         {
             //TODO Task 1.2
-            BankAccount account = new BankAccount
+            var account  = new BankAccount
             {
                 AccountNumber = "123-456",
                 Balance = 1000.23m
