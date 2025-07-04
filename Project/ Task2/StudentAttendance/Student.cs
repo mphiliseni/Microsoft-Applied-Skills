@@ -8,7 +8,7 @@ namespace StudentAttendance
         public string firstname { get; private set; }
 
         // TODO Task 2.2: Allow MiddleName to be null
-        public string middlename { get; private set; } = string.Empty;
+        public string? middlename { get; private set; }
         // End of TODO Task 2.2
 
         public string lastname { get; private set; }

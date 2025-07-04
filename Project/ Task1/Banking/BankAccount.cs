@@ -2,7 +2,7 @@ using System;
 
 namespace Banking
 {
-    public class BankAccount
+    public class BankAccount()
     {
         //TODO Task 1.1
         public string AccountNumber { get; set; } = string.Empty;
